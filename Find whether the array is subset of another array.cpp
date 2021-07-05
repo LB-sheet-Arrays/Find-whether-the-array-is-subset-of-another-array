@@ -9,10 +9,6 @@ TC => O(mlogm + nlogm)
 
 */
 
-//ISSUE: 
-//Make hashmap solution later
-//Modify code to handle duplicates
-
 #include<iostream>                       
 #include<cstdlib>       //to dynamically allocate memory
 #include<algorithm>     //to use sort()
